@@ -3,10 +3,10 @@ const advice = document.getElementById("advice");
 const btn = document.getElementById("btn");
 
 const adviceQuotes = [
+  "დაუჯერე ოლის.",
   "Stay true to yourself.",
   "Do what you love--not what you're told to love.",
   "Create the environment that's right for you.",
-  "დაუჯერე ოლის.",
   "Choose your friends wisely.",
   "ეძმაკაცე გუჯურის.",
   "Develop positive habits.",
