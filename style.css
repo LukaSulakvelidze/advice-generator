@@ -21,7 +21,7 @@ body {
   margin: auto;
   margin-top: 112px;
   border-radius: 10px;
-  background-color: #313A48;
+  background-color: #313a48;
 }
 
 #advice-number {
@@ -29,17 +29,17 @@ body {
   line-height: 15px;
   letter-spacing: 3.46px;
   margin-top: 24px;
-  color: #53FFAA;
+  color: #53ffaa;
 }
 
 #advice {
   font-size: 24px;
   line-height: 32.78px;
-  letter-spacing: -.26px;
+  letter-spacing: -0.26px;
   text-align: center;
   width: 90%;
   margin: 24px 0 0 0;
-  color: #CEE3E9;
+  color: #cee3e9;
 }
 
 .pause {
@@ -62,13 +62,13 @@ body {
   border: none;
   border-radius: 50px;
   top: 90%;
-  background-color: #53FFAA;
+  background-color: #53ffaa;
   transition: transform 0.5s ease-in-out;
 }
 
 #btn:hover {
   cursor: pointer;
-  box-shadow: 0px 0px 40px #53FFAA;
+  box-shadow: 0px 0px 40px #53ffaa;
 }
 
 @media (min-width: 375px) {
